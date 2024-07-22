@@ -45,8 +45,8 @@ genText.addEventListener("click", function() {
     "I would like to fill my calendars with memories of you.",
     "Call me anytime",
     "Distance means so little when someone means so much",
-    "cant wait to go on our first date"
-    "Thank you for saving my life"
+    "cant wait to go on our first date",
+    "Thank you for saving my life",
     "You bring happiness into my life",
   ]
   const textEl = document.querySelector(".textMessage")
